@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello friends");
 
         // line 1: testing
+
+        // line 2: testing 2
     }
 }
